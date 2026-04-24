@@ -1,6 +1,4 @@
-This is a professional and clean **README.md** structure you can copy and paste directly into your GitHub repository. It is designed to be user-friendly, clear, and technically sound so that anyone who visits your profile can follow it without getting stuck.
 
----
 
 # 🎙️ Local Text-to-Speech with Piper & Docker on WSL2
 
